@@ -1,0 +1,47 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# Built files
+dist/
+build/
+
+env/
+.venv/
+
+# Misc
+*.class
+*.jar
+*.war
+*.ear
